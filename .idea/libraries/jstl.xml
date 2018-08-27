@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="常用jstl架包">
+    <CLASSES>
+      <root url="jar://F:/架包/jstl-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
